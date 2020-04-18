@@ -1,0 +1,26 @@
+# IDE
+.idea/
+.vscode/
+
+# Build
+build/
+__pycache__/
+*.pyc
+a.out
+
+# Metafiles
+.DS_Store
+
+# Dependencies
+bower_components/
+node_modules/
+venv/
+package-lock.json
+
+# Debug
+npm-debug.log
+
+# Extras
+temp/
+
+# Project specific
