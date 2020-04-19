@@ -20,6 +20,7 @@ def main():
     content += HEADER
 
     for root, dirs, files in os.walk("."):
+        dirs.sort()
         if root == '.':
             for dir in ('.git', '.github'):
                 try:
@@ -36,6 +37,7 @@ def main():
             name = os.path.basename(file)
             name = " ".join(word.capitalize() for word in name.split('-'))
             content += "- [{}]({})\n".format(name, os.path.join(category, file))
+        content += "\n"
 
     with open("README.md", "w") as fd:
         fd.write(content)

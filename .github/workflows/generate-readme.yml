@@ -1,4 +1,4 @@
-name: Generate Index
+name: Generate README
 
 on:
   push:
