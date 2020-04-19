@@ -34,7 +34,7 @@ def main():
         content += "### {}\n\n".format(category)
 
         for file in files:
-            name = os.path.basename(file)
+            name = os.path.basename(file).split('.')[0]
             name = " ".join(word.capitalize() for word in name.split('-'))
             content += "- [{}]({})\n".format(name, os.path.join(category, file))
         content += "\n"
