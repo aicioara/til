@@ -26,4 +26,4 @@ jobs:
           git config --global user.name 'Andrei Cioara'
           git config --global user.email 'andrei@cioara.me'
           git commit -am "Automated update of README.md"
-          git push
+          git push || true
