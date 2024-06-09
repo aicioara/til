@@ -10,6 +10,7 @@ A collection of software engineering tips that I learn every day.
 ### chrome
 
 - [Omnibox](chrome/omnibox.md)
+- [Clear Service Worker Cache](chrome/clear-service-worker-cache.md)
 
 ### github
 
