@@ -20,6 +20,7 @@ A collection of software engineering tips that I learn every day.
 
 - [Fixing Hostname](macos/fixing-hostname.md)
 - [One Button Do Not Disturb](macos/one-button-do-not-disturb.md)
+- [Keyboard Shortcuts](macos/keyboard-shortcuts.md)
 
 ### meta
 
