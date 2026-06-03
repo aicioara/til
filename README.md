@@ -9,8 +9,8 @@ A collection of software engineering tips that I learn every day.
 
 ### chrome
 
-- [Omnibox](chrome/omnibox.md)
 - [Clear Service Worker Cache](chrome/clear-service-worker-cache.md)
+- [Omnibox](chrome/omnibox.md)
 
 ### github
 
@@ -18,10 +18,11 @@ A collection of software engineering tips that I learn every day.
 
 ### macos
 
-- [Fixing Hostname](macos/fixing-hostname.md)
 - [One Button Do Not Disturb](macos/one-button-do-not-disturb.md)
-- [Run Unsigned Apps](macos/run-unsigned-apps.md)
 - [Keyboard Shortcuts](macos/keyboard-shortcuts.md)
+- [Fixing Hostname](macos/fixing-hostname.md)
+- [Fast Open File](macos/fast-open-file.md)
+- [Run Unsigned Apps](macos/run-unsigned-apps.md)
 
 ### meta
 
@@ -29,7 +30,7 @@ A collection of software engineering tips that I learn every day.
 
 ### terminal
 
+- [Tmux True Color](terminal/tmux-true-color.md)
 - [Command Timestamps](terminal/command-timestamps.md)
 - [Git Delta](terminal/git-delta.md)
-- [Tmux True Color](terminal/tmux-true-color.md)
 
